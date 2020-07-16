@@ -15,3 +15,5 @@ Movie seat booking:
 
 - Save Data to Local Storage
 - Populate the UI With Saved Data
+
+Note: Project from [Brad Traversy's Course](https://vanillawebprojects.com/)
